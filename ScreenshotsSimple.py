@@ -1,3 +1,6 @@
+# Based on: http://www.macstories.net/tutorials/a-better-way-to-combine-iphone-screenshots-with-keyboard-maestro/
+# Uses two screenshots saved in Pythonista's image manager
+
 import Image
 import clipboard
 im1 = Image.open('_1').convert("RGB")

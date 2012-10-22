@@ -1,3 +1,7 @@
+# Uses direct link to image in clipboard to generate HTML code suitable for MacStories
+# Should work just about anywhere else though.
+# Please note: script will ask for image Title and Alt attributes using an input_alert from console.
+
 import clipboard
 import console
 

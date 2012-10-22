@@ -1,3 +1,8 @@
+# Imports two screenshots (iPhone 5) from the iOS clipboard and creates a single image
+# Based on: http://www.macstories.net/tutorials/a-better-way-to-combine-iphone-screenshots-with-keyboard-maestro/
+# Images are pasted in order of Photos.app
+
+
 import clipboard
 import Image
 
